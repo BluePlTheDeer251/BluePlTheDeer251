@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @BluePlTheDeer251
+- 👋 Hi, I’m @BluePyTheDeer251
 - 👀 I’m interested in videogames, art, and music
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: I have nothing
-- 😄 Pronouns: he/him, them
+- 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: I love Kali Linux
 
 <!---
